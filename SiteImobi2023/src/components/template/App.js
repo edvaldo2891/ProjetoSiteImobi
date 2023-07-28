@@ -5,8 +5,6 @@ import NavBar from './NavBar';
 import ModalBanner from './ModalBanner';
 import FooterLGPD from './FooterLGPD';
 
-
-
 function App() {
   const ativo = true;
   if(ativo){

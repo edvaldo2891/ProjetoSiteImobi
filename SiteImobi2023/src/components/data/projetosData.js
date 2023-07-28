@@ -1,6 +1,4 @@
 
-//caminho do arquivo= src/components/data/projetoData
-//caminho da imagem= src/imgs/...
 const projetosData = [
     {
       titulo: 'Projeto 1',
@@ -17,7 +15,6 @@ const projetosData = [
       descricao: 'Descrição do Projeto 3',
       imagem: require('../../imgs/banner-3.jpg'),
     },
-    // Adicione mais projetos conforme necessário
 ];
 
 export default projetosData;
